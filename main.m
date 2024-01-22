@@ -1,3 +1,5 @@
+% Project in image and video compression for EQ2330 Image and Video Processing course at 
+% the KTH Royal Institute of Technology (Stockholm, Sweden).
 
 
 % Plot quantization function
